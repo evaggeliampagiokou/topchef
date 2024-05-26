@@ -12,17 +12,17 @@ We created a databases used to store and run a cooking cpompetition
 - sql server 2019
 
 ## ER-Diagram
-![](https://github.com/evaggeliampagiokou/topchef/blob/main/ER_DIAGRAM.png)
+![](https://github.com/evaggeliampagiokou/topchef/blob/main/DIAGRAMS/ER_DIAGRAM.png)
 ## Relational Model
-![](https://github.com/evaggeliampagiokou/topchef/blob/main/relational_model.png)
+![](https://github.com/evaggeliampagiokou/topchef/blob/main/DIAGRAMS/relational_model.png)
 
 ### Run the following sql queries inside the DMBS (at this spesific order !).
-1. [top_chef_databases.sql](top_chef_databases.sql) to create the database,the tables and add all the data .
-2. [eveything_to_prepare_for_episodes.sql](everything_to_prepare_for_episodes.sql) to run all the procedures and functions we use in the database.It also runs and creates the 50 episodes
+1. [top_chef_databases.sql](sql_codes/top_chef_databases.sql) to create the database,the tables and add all the data .
+2. [eveything_to_prepare_for_episodes.sql](sql_codes/everything_to_prepare_for_episodes.sql) to run all the procedures and functions we use in the database.It also runs and creates the 50 episodes
 
 ## SQL Queries
-Here we can run all the [Queries](queeries.sql) used in the database.
-Find the questions for the queries attached to the file [Εκφωνήση](εκφώνηση.pdf)
+Here we can run all the [Queries](sql_codes/queeries.sql) used in the database.
+Find the questions for the queries attached to the file [Εκφωνήση](other_files/εκφώνηση.pdf)
 ## Αναφορα
-Εδώ μπορείτε να βρείτε την [Τελική Αναφορά](anafora_vaseis_dedomenwn.pdf) που περιέχει όλες τις λεπτομέρειες 
+Εδώ μπορείτε να βρείτε την [Τελική Αναφορά](other_files/anafora_vaseis_dedomenwn.pdf) που περιέχει όλες τις λεπτομέρειες 
 
