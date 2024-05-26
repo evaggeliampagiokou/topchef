@@ -5,6 +5,8 @@ We created a databases used to store and run a cooking cpompetition
 
 ## Contributors
 1. Ευαγγελία Μπαγιώκου
+2. Ιωακείμ Αλέξανδρος Σπανδωνίδης
+3. Νικόλαος Μπελίτσος
 
 ## Requirements
 - sql server
