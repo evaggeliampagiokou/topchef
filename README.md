@@ -21,3 +21,6 @@ We created a databases used to store and run a cooking cpompetition
 ## SQL Queries
 Here we can run all the [Queries](queeries.sql) used in the database.
 Find the questions for the queries attached to the file [Εκφωνήσεις](εκφώνηση.pdf)
+## Αναφορα
+Εδώ μπορείτε να βρείτε την [Τελική Αναφορά]() που περιέχει όλες τις λεπτομέρειες 
+
