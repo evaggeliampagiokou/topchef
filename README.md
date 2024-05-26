@@ -24,5 +24,5 @@ We created a databases used to store and run a cooking cpompetition
 Here we can run all the [Queries](queeries.sql) used in the database.
 Find the questions for the queries attached to the file [Εκφωνήσεις](εκφώνηση.pdf)
 ## Αναφορα
-Εδώ μπορείτε να βρείτε την [Τελική Αναφορά](anafora_vaseis_dedomenwn.pdf) που περιέχει όλες τις λεπτομέρειες 
+Εδώ μπορείτε να βρείτε την [Τελική Αναφορά](anafora_vaseis_dedomenwn .pdf) που περιέχει όλες τις λεπτομέρειες 
 
