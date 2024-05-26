@@ -12,7 +12,7 @@ We created a databases used to store and run a cooking cpompetition
 ## ER-Diagram
 ![](https://github.com/evaggeliampagiokou/topchef/blob/main/ER_DIAGRAM.png)
 ## Relational Model
-![]()
+![](https://github.com/evaggeliampagiokou/topchef/blob/main/relational_model.png)
 
 ### Run the following sql queries inside the DMBS (at this spesific order !).
 1. [top_chef_databases.sql](top_chef_databases.sql) to create the database,the tables and add all the data .
