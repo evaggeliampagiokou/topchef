@@ -1,7 +1,7 @@
 # Top Chef 
 This is a project for the Databases class in NTUA Electrical and Computer Engineering Department
 
-We created a databases used to store and run a cooking cpompetition
+We created a database used to store and run a cooking cpompetition
 
 ## Contributors
 1. Ευαγγελία Μπαγιώκου
