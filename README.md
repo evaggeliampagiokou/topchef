@@ -16,7 +16,7 @@ We created a database used to store and run a cooking cpompetition
 ## Relational Model
 ![](https://github.com/evaggeliampagiokou/topchef/blob/main/DIAGRAMS/relational_model.png)
 
-### Run the following sql queries inside the DMBS (at this spesific order !).
+### Run the following sql queries inside the DBMS (at this spesific order !).
 1. [top_chef_databases.sql](sql_codes/top_chef_databases.sql) to create the database,the tables and add all the data .
 2. [eveything_to_prepare_for_episodes.sql](sql_codes/everything_to_prepare_for_episodes.sql) to run all the procedures and functions we use in the database.It also runs and creates the 50 episodes
 
