@@ -10,7 +10,7 @@ We created a databases used to store and run a cooking cpompetition
 - sql server
 
 ## ER-Diagram
-![]()
+![](https://github.com/evaggeliampagiokou/topchef/blob/main/ER_DIAGRAM.png)
 ## Relational Model
 ![]()
 
