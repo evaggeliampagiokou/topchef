@@ -9,7 +9,7 @@ We created a databases used to store and run a cooking cpompetition
 3. Νικόλαος Μπελίτσος
 
 ## Requirements
-- sql server
+- sql server 2019
 
 ## ER-Diagram
 ![](https://github.com/evaggeliampagiokou/topchef/blob/main/ER_DIAGRAM.png)
